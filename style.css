@@ -1,0 +1,91 @@
+/*body{
+	background: orange;
+}*/
+.header{
+	margin:20px 20px 20px 20px;
+	
+	border-top: 1px solid rgba(0,0,0,0);
+}
+.left{
+	float: left;
+	margin-bottom: 100px;
+}
+
+.right{
+	float: right;
+	margin-bottom: 100px;
+}
+
+.container{
+	text-align: center;
+	margin-top: 200px;
+	margin-bottom: 100px;
+
+
+}
+.logo{
+	font-size: 600px;
+
+}
+
+#input{
+	height: 30px;
+	width: 680px;
+	font-size: 20px;
+	padding: 10px;
+	border:1px;
+	/*needs adjustment on the size*/
+}
+#g1{
+	color: blue;
+}
+#o1{
+	color: red;
+}
+#o2{
+	color: #ede910;
+}
+#g2{
+	color: blue;
+}
+#l{
+	color: green;
+}
+#e{
+	color: red;
+}
+#anchor{
+	text-decoration: none;
+}
+.a{
+	margin-left: 10px;
+	margin-right: 10px;
+	color: grey;
+}
+button{
+
+}
+#h1{
+	font-size: 100px;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+
+}
+.foot{ 
+ 	position: fixed;
+    width: 90%;
+    color: white;
+    text-align: center;;
+    margin: 10px 40px 0px 40px;
+
+}
+.f-right{
+		float: right;
+	
+	;
+}
+.far{
+	margin:10px 10px;
+}
+
+
